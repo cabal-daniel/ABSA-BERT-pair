@@ -4,7 +4,7 @@ INSTALL_REQUIRES = [
     'click==8.0.3',
     'joblib==1.1.0',
     'nltk==3.6.5',
-    'numpy==1.21.4',
+    'numpy==1.22.0',
     'pandas==1.3.5',
     'pkg_resources==0.0.0',
     'python-dateutil==2.8.2',
