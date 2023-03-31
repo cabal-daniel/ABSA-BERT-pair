@@ -15,7 +15,7 @@ INSTALL_REQUIRES = [
     'six==1.16.0',
     'sklearn==0.0',
     'threadpoolctl==3.0.0',
-    'torch==1.10.1',
+    'torch==1.13.1',
     'tqdm==4.62.3',
     'typing_extensions==4.0.1',
     'typer==0.4.0',
