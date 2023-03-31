@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 INSTALL_REQUIRES = [
     'click==8.0.3',
-    'joblib==1.1.0',
+    'joblib==1.2.0',
     'nltk==3.6.5',
     'numpy==1.21.4',
     'pandas==1.3.5',
