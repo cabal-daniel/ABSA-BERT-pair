@@ -11,7 +11,7 @@ INSTALL_REQUIRES = [
     'pytz==2021.3',
     'regex==2021.11.10',
     'scikit-learn==1.0.1',
-    'scipy==1.7.3',
+    'scipy==1.10.0',
     'six==1.16.0',
     'sklearn==0.0',
     'threadpoolctl==3.0.0',
